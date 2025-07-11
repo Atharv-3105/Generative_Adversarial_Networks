@@ -35,7 +35,7 @@ Below are samples from the model trained for limited epochs:
 
 | Input (Van Gogh) | Output (Fake Realistic) | Cycle Reconstructed |
 |------------------|--------------------------|----------------------|
-| ![](saved_images/vangogh_800.png) | ![](saved_images/fake_realistic_800.png) | ![](saved_images/cycle_vangogh_800.png) |
+| ![](saved_imgs/vangogh_800.png) | ![](saved_imgs/fake_realistic_800.png) | ![](saved_imgs/cycle_vangogh_800.png) |
 
 ---
 
@@ -43,11 +43,8 @@ Below are samples from the model trained for limited epochs:
 
 | Input (Realistic) | Output (Fake Van Gogh) | Cycle Reconstructed |
 |-------------------|------------------------|----------------------|
-| ![](saved_images/realistic_800.png) | ![](saved_images/fake_vangogh_800.png) | ![](saved_images/cycle_realistic_800.png) |
+| ![](saved_imgs/realistic_800.png) | ![](saved_imgs/fake_vangogh_800.png) | ![](saved_imgs/cycle_realistic_800.png) |
 
 > _Note: Images are saved every 200 iterations and are available in `saved_images/`._
 
 ---
-
-## 📦 Folder Structure
-
