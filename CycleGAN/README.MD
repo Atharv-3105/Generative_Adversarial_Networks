@@ -35,7 +35,7 @@ Below are samples from the model trained for limited epochs:
 
 | Input (Van Gogh) | Output (Fake Realistic) | Cycle Reconstructed |
 |------------------|--------------------------|----------------------|
-| ![](saved_imgs/real_vangogh_800.png) | ![](saved_imgs/fake_realistic_800.png) | ![](saved_imgs/cycle_vangogh_800.png) |
+| ![](saved_imgs/real_vangogh_6000.png) | ![](saved_imgs/fake_realistic_6000.png) | ![](saved_imgs/cycle_vangogh_800.png) |
 
 ---
 
@@ -43,7 +43,7 @@ Below are samples from the model trained for limited epochs:
 
 | Input (Realistic) | Output (Fake Van Gogh) | Cycle Reconstructed |
 |-------------------|------------------------|----------------------|
-| ![](saved_imgs/real_realistic_800.png) | ![](saved_imgs/fake_vangogh_800.png) | ![](saved_imgs/cycle_realistic_800.png) |
+| ![](saved_imgs/real_realistic_6000.png) | ![](saved_imgs/fake_vangogh_6000.png) | ![](saved_imgs/cycle_realistic_800.png) |
 
 
 > _Note: Images are saved every 200 iterations and are available in `saved_images/`._
