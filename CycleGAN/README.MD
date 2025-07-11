@@ -35,7 +35,7 @@ Below are samples from the model trained for limited epochs:
 
 | Input (Van Gogh) | Output (Fake Realistic) | Cycle Reconstructed |
 |------------------|--------------------------|----------------------|
-| ![](saved_imgs/realistic_vangogh_800.png) | ![](saved_imgs/fake_realistic_800.png) | ![](saved_imgs/cycle_vangogh_800.png) |
+| ![](saved_imgs/real_vangogh_800.png) | ![](saved_imgs/fake_realistic_800.png) | ![](saved_imgs/cycle_vangogh_800.png) |
 
 ---
 
